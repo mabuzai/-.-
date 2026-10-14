@@ -60,22 +60,22 @@
 
 主界面：棋盘在左，功能侧栏在右，对局、棋谱、残局、摆局四大页签随手切换。
 
-![主界面 · 水墨宣纸棋盘](screenshots/01-main.jpg)
+![主界面 · 水墨宣纸棋盘](01-main.jpg)
 
 内置棋谱库与残局挑战——5.5 万局棋谱按分类与棋手检索，2500 道杀局分难度挑。
 
-![内置棋谱库](screenshots/07-games.jpg) ![残局挑战](screenshots/08-puzzle.jpg)
+![内置棋谱库](07-games.jpg) ![残局挑战](08-puzzle.jpg)
 
 外观全可换：棋盘材质、界面配色、棋子字形与刻法自由组合，下面是同一副棋子在四种材质下的样子。
 
-![棋盘材质对比](screenshots/09-themes.jpg)
+![棋盘材质对比](09-themes.jpg)
 
 <div align="center">
-<img src="screenshots/02-amber-wood.jpg" width="46%" alt="琥珀木棋盘 · 扁平棋子">
-<img src="screenshots/03-crimson.jpg" width="46%" alt="朱砂红棋盘 · 对局记录">
-<img src="screenshots/04-glaze.jpg" width="46%" alt="朱砂红棋盘 · 瓷釉棋子">
-<img src="screenshots/05-colorring.jpg" width="46%" alt="黑檀雅致棋盘 · 彩环棋子">
-<img src="screenshots/06-ebony.jpg" width="94%" alt="黑檀雅致棋盘 · 宋体字形">
+<img src="02-amber-wood.jpg" width="46%" alt="琥珀木棋盘 · 扁平棋子">
+<img src="03-crimson.jpg" width="46%" alt="朱砂红棋盘 · 对局记录">
+<img src="04-glaze.jpg" width="46%" alt="朱砂红棋盘 · 瓷釉棋子">
+<img src="05-colorring.jpg" width="46%" alt="黑檀雅致棋盘 · 彩环棋子">
+<img src="06-ebony.jpg" width="94%" alt="黑檀雅致棋盘 · 宋体字形">
 </div>
 
 ---
@@ -125,7 +125,7 @@ Chrome / Edge / Firefox / Safari 的近几年版本均可。建议桌面浏览�
 ```
 .
 ├── 中国象棋_国风泼墨版.html   # 全部内容都在这一个文件里
-├── screenshots/               # 界面截图（README 用相对路径引用）
+├──                # 界面截图（README 用相对路径引用）
 └── README.md
 ```
 
